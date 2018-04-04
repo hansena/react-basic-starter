@@ -4,7 +4,7 @@
   "description": "The very very basic reactjs starter",
   "main": "index.js",
   "scripts": {
-    "preparecommitms": "node ./test.js",
+    "preparecommitm": "node ./test.js",
     "test": "npm run eslint && npm run jest",
     "eslint": "./node_modules/eslint/bin/eslint.js ./src",
     "jest": "./node_modules/jest/bin/jest.js",
